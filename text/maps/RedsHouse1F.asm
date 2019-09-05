@@ -4,6 +4,9 @@ _MomWakeUpText::
 	cont "home some day."
 	cont "It said so on TV."
 
+para "<PLAYER>: No”
+line "NOT YET”
+
 	para "PROF.OAK, next"
 	line "door, is looking"
 	cont "for you."
@@ -20,7 +23,7 @@ _MomHealText2::
 	line "You and your"
 	cont "#MON are"
 	cont "looking great!"
-	cont "Take care now!"
+	cont "Now get out."
 	done
 
 _StandByMeText::
@@ -28,6 +31,7 @@ _StandByMeText::
 	line "on TV. Four boys"
 	cont "are walking on"
 	cont "railroad tracks."
+   line "THEY DIED”
 
 	para "I better go too."
 	done
