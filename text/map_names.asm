@@ -1,6 +1,6 @@
 MapNames:
 PalletTownName:
-	db "PALLET TOWN@"
+	db "THE BEGINNING@"
 ViridianCityName:
 	db "VIRIDIAN CITY@"
 PewterCityName:
