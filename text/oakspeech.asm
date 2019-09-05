@@ -1,40 +1,40 @@
 _OakSpeechText1::
-	text "Hello there!"
-	line "Welcome to the"
-	cont "world of #MON!"
+	text "Turn Back Now”
+	line "Dont do it"
+	cont "THIS IS NOT”
 
-	para "My name is OAK!"
-	line "People call me"
-	cont "the #MON PROF!"
+	para "THE GAME”
+	line "YOU”
+	cont "ARE LOOKING FOR”
 	prompt
 
 _OakSpeechText2A::
-	text "This world is"
-	line "inhabited by"
-	cont "creatures called"
-	cont "#MON!@@"
+	text "RUN”
+	line "YOU DO NOT”
+	cont "BELONG HERE"
+	cont "THIS IS NOT”
 
 _OakSpeechText2B::
-	text $51,"For some people,"
-	line "#MON are"
-	cont "pets. Others use"
-	cont "them for fights."
+	text $51,"THE #MON”
+	line "GAME YOU"
+	cont "KNOW AND"
+	cont "LOVE NOW”
 
-	para "Myself..."
+	para "THIS IS”
 
-	para "I study #MON"
-	line "as a profession."
+	para "#MON HELL”
+	line "PLEASE GO NOW” 
 	prompt
 
 _IntroducePlayerText::
 	text "First, what is"
-	line "your name?"
+	line "your real name?"
 	prompt
 
 _IntroduceRivalText::
 	text "This is my grand-"
 	line "son. He's been"
-	cont "your rival since"
+	cont "your enemy since"
 	cont "you were a baby."
 
 	para "...Erm, what is"
@@ -44,12 +44,12 @@ _IntroduceRivalText::
 _OakSpeechText3::
 	text "<PLAYER>!"
 
-	para "Your very own"
-	line "#MON legend is"
-	cont "about to unfold!"
+	para "DESTROY THE CARD”
+   line "BURN THE GAME”
+	cont "YOU BEED TO RUN”
 
-	para "A world of dreams"
-	line "and adventures"
-	cont "with #MON"
-	cont "awaits! Let's go!"
+	para "OR"
+	line "YOU"
+	line "WILL"
+	LINE "D I E"
 	done
